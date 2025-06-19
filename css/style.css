@@ -1,0 +1,13 @@
+.card{
+    background-image: url('https://i.pinimg.com/736x/7d/71/cb/7d71cbb290a5284ff6e7fbb8391683cf.jpg');
+    height: 100vh;
+    text-align: center;
+    padding-top: 25%;
+    font: 2em sans-serif;
+    color: teal;
+    
+}
+.card-a{
+    background-color: aqua;
+    
+}
